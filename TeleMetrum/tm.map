@@ -1,0 +1,11 @@
+
+ 1. Time
+ 2. Altitude    (Pressure Derived)
+ 3. Altitude    (Single Axis Accelerameter Derived)
+ 4. Speed       (Pressure Derived)
+ 5. Speed       (Single Axis Accelerameter Derived)
+ 6. Accel       (Pressure Derived)
+ 7. Accel       (Single Axis Accelerameter Derived)
+ 8. Pressure  
+ 9. Accel
+
